@@ -1,5 +1,4 @@
 import "./App.css";
-import Card from "./components/Card";
 import CardContainer from "./components/CardContainer";
 import Header from "./components/Header";
 
