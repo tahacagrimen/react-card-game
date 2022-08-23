@@ -24,7 +24,7 @@ const data = [
   {
     cardName: "NodeJS",
     cardImage:
-      "https://www.pikpng.com/pngl/m/430-4309640_js-logo-nodejs-logo-clipart.png",
+      "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
     matched: false,
   },
   {
